@@ -3,7 +3,7 @@ RELEASE APP LINK : https://drive.google.com/file/d/1lBbhByeQHVccI7O_Ef_UkEnbUrMb
 YOUTUBE VIDEO: https://youtu.be/K3lHGFlgkXw
 
 # HOW TO INSTALL
-1) Download the arduino sketches in the racks you built (Side Stick Rack, Pedals Rack or both)
+1) Download the arduino sketches in the racks you built (JoyStick Rack, Pedals Rack or both)
 2) UNZIP THE Release.zip file somewhere in your PC
 3) Connect the racks to your PC through USB ports
 4) Check which COM Number is associated to your rack
