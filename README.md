@@ -1,5 +1,5 @@
 # JoyPedalRacks4MSFS
-RELEASE APP LINK : https://drive.google.com/file/d/1lBbhByeQHVccI7O_Ef_UkEnbUrMbONSP/view?usp=share_link \
+RELEASE APP LINK : https://drive.google.com/drive/folders/1Cr-Yps9xPKAqU51wBdPLf1YpQQ8UZZNs?usp=share_link \
 YOUTUBE VIDEO: https://youtu.be/K3lHGFlgkXw
 
 # HOW TO INSTALL
